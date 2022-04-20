@@ -18,4 +18,4 @@
     readme.md, hello.cpp, y output.txt.
 11. La última tarea es informar el usuario GitHub en la lista indicada en el curso.
 
-❗ Información adicional: Editor: Visual Studio Code / Compilador: Mingw-w64 / Extensiones VSCode: C++, Code Runner
+❗ Información adicional: Editor: Visual Studio Code / Compilador: g++ / Extensiones VSCode: C++, Code Runner
